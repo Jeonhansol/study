@@ -1,1 +1,59 @@
 first
+
+Data Science Tools and Ecosystem
+
+In this notebook, Data Science Tools and Ecosystem are summarized.
+
+Some of the popular languages that Data Scientists use are:
+
+Python
+R
+SQL
+Scala
+Java
+C++
+Julia
+Javascript
+Php
+Go
+Ruby
+Visual Basic
+Some of the commonly used libraries used by Data Scientists include:
+
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Scikit-learn
+Keras
+TensorFlow
+PyTorch
+Apache Spark
+Vegas
+Big DL
+Ggplot2
+Data Science Tools
+
+Below are a few examples of evaluating arithmetic expressions in Python.
+
+(3*4)+5
+17
+# 180 minutes
+hour = 180 / 60
+hour
+3.0
+Objectives:
+
+Add comments to code cells
+Create mark down cells
+Format content at markdown cells with heading styles
+jeon hansol
+
+​
+​
+​
+​
+​
+In this notebook, Data Science Tools and Ecosystem are summarized.
+
+​
